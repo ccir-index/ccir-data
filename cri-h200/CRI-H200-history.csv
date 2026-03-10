@@ -1,2 +1,2 @@
 observation_date,methodology_version,index_name,source_count,index_value,obs_p25,obs_p75,obs_min,obs_max,confidence_flag,total_observations,n_valid_days,window_start,window_end,computed_at
-2026-03-10,1.0.0,cri_h200,2,2.322581,2.322581,3.250000,2.322581,3.250000,medium,284,3,2026-03-03 23:59:59.999999,2026-03-10 23:59:59.999999,2026-03-10 15:18:47.839588
+2026-03-10,1.0.0,cri_h200,2,2.322581,2.322581,3.250000,2.322581,3.250000,medium,289,3,2026-03-03 23:59:59.999999,2026-03-10 23:59:59.999999,2026-03-10 20:57:10.975662
