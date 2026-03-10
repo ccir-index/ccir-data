@@ -108,7 +108,9 @@ This repository contains **Gold layer aggregates only** — no raw listings, no 
 Full audit trail is maintained in the production pipeline:
 
 ```
-Raw API response (raw_payload, Bronze)
+Raw API response bytes
+  → snapshot_sha256 (SHA-256 hash, computed at collection time, Bronze)
+  → raw_payload (complete JSON, Bronze)
   → Bronze row_id (UUID)
     → Silver bronze_row_id (foreign key)
       → Gold observation_date / computed_at
@@ -149,7 +151,7 @@ CCIR indices are governed with reference to the [IOSCO Principles for Financial 
 
 ## Update Schedule
 
-Data is published daily by **17:00 UTC**. The production pipeline runs on Azure Databricks (ccir-workspace). GitHub Actions provides a backup publication path for CRI-H100.
+Data is published daily by **17:00 UTC**. The production pipeline runs on Azure Databricks (ccir-workspace). CSV export to this repository is automated via the Databricks export_snapshots notebook, which commits daily via the GitHub API.
 
 ---
 
