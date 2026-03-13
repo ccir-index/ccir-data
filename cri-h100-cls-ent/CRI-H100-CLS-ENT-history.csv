@@ -1,0 +1,2 @@
+as_of_date,methodology_version,gpu_model,cls_tier,cls_rate,source_count,sources,bundle_note,interruptible_rate,t2i_spread,cls_vs_secure_pct,cls_obs,cls_days,interruptible_source_count,interruptible_obs,interruptible_confidence,confidence_flag,computed_at
+2026-03-13,v1.0.0,H100_SXM,ENT,6.1550,1,COREWEAVE,includes CPU/RAM/interconnect,1.5000,0.756300,,1,1,2,10,low,low,2026-03-13T14:41:02.979185+00:00
