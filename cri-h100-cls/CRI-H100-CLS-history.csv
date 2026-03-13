@@ -1,2 +1,6 @@
 as_of_date,methodology_version,gpu_model,cls_rate,interruptible_rate,t2i_spread,cls_vs_secure_pct,cls_obs,cls_days,interruptible_source_count,interruptible_obs,interruptible_confidence,confidence_flag,computed_at
 2026-03-13,v1.0.0,A100_SXM,1.7880,0.5200,0.709200,20.00,6,2,2,22,low,low,2026-03-13T04:37:25.342661+00:00
+2026-03-13,v1.0.0,B200_SXM,5.9880,3.4375,0.425900,20.00,6,2,1,7,low,low,2026-03-13T04:37:25.342661+00:00
+2026-03-13,v1.0.0,H100_SXM,3.2280,1.5000,0.535300,20.00,6,2,2,10,low,low,2026-03-13T04:37:25.342661+00:00
+2026-03-13,v1.0.0,H200_SXM,4.3080,2.4516,0.430900,20.00,6,2,1,29,low,low,2026-03-13T04:37:25.342661+00:00
+2026-03-13,v1.0.0,L40S,1.0320,0.4667,0.547800,20.00,6,2,2,17,low,low,2026-03-13T04:37:25.342661+00:00
