@@ -1,0 +1,2 @@
+as_of_date,methodology_version,gpu_model,price_type_canonical,index_value,obs_p25,obs_p75,obs_min,obs_max,source_count,total_observations,n_valid_days,confidence_flag,computed_at
+2026-03-13,v1.0.0,L40S,seller_ask_interruptible,0.4667,0.4000,0.4667,0.4000,0.9333,2,17,2,low,2026-03-13T04:37:07.678426+00:00
