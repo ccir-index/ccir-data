@@ -1,2 +1,3 @@
 as_of_date,methodology_version,gpu_model,price_type_canonical,index_value,obs_p25,obs_p75,obs_min,obs_max,source_count,total_observations,n_valid_days,confidence_flag,computed_at
 2026-03-13,v1.0.0,H200_SXM,seller_ask_interruptible,2.4516,2.4516,3.0968,2.0516,3.1613,1,29,0,low,2026-03-13T04:37:07.678426+00:00
+2026-03-14,v1.0.0,H200_SXM,seller_ask_interruptible,2.4516,2.4516,3.0968,2.0516,3.1613,1,39,0,low,2026-03-14T02:06:20.824242+00:00
