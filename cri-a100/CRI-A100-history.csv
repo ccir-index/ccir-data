@@ -4,3 +4,4 @@ as_of_date,methodology_version,gpu_model,price_type_canonical,index_value,obs_p2
 2026-03-13,v1.0.0,A100_SXM,seller_ask_interruptible,0.5200,0.5067,0.7900,0.2933,0.7900,2,34,2,low,2026-03-14T19:38:20.454838+00:00
 2026-03-13,v1.0.0,A100_SXM,seller_ask_noninterruptible,1.2500,1.2500,1.4900,1.2500,1.4900,2,26,2,low,2026-03-14T19:38:20.454838+00:00
 2026-03-14,v1.0.0,A100_SXM,seller_ask_interruptible,0.5200,0.5067,0.6347,0.2933,0.7900,2,34,3,medium,2026-03-14T02:06:20.824242+00:00
+2026-03-15,v1.0.0,A100_SXM,seller_ask_interruptible,0.5200,0.4267,0.7900,0.2933,0.7900,2,66,4,medium,2026-03-15T02:05:03.220520+00:00
