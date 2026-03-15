@@ -1,3 +1,4 @@
 as_of_date,methodology_version,gpu_model,cls_tier,cls_rate,source_count,sources,bundle_note,interruptible_rate,t2i_spread,cls_vs_secure_pct,cls_obs,cls_days,interruptible_source_count,interruptible_obs,interruptible_confidence,confidence_flag,computed_at
 2026-03-13,v1.0.0,H200_SXM,ENT,6.3050,1,COREWEAVE,includes CPU/RAM/interconnect,2.4516,0.611200,,1,1,1,29,low,low,2026-03-13T14:41:02.979185+00:00
 2026-03-14,v1.0.0,H200_SXM,ENT,6.3050,1,COREWEAVE,includes CPU/RAM/interconnect,2.4516,0.611200,,3,2,1,39,low,low,2026-03-14T02:06:42.233454+00:00
+2026-03-15,v1.0.0,H200_SXM,ENT,6.3050,1,COREWEAVE,includes CPU/RAM/interconnect,2.4516,0.611200,,4,3,1,70,low,low,2026-03-15T02:05:25.233284+00:00
